@@ -1,0 +1,273 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, December 14, 2023 7:44:11 PM
+   Source : C:\Dummy_Files_Prac\
+     Dest : D:\Batch_File_Backup_Data\BackUp\Backup_2023-12-14_19-44-10\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:T /COPY:DAT /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	                   4	C:\Dummy_Files_Prac\
+	  *EXTRA File 		       0	robocopy_log.txt
+	    New File  		       0	Docs1.docx
+	    New File  		       0	PPT1.pptx
+	    New File  		    6164	Sheets1.xlsx100%  
+	    New File  		       0	Text1.txt
+	  New Dir          6	C:\Dummy_Files_Prac\CCS 236 Operating Systems\
+	    New File  		   3.7 m	ch03.ppt 13%   26%   39%   52%   65%   79%   92%  100%  100%  
+	    New File  		   4.3 m	ch04.ppt 11%   22%   34%   45%   57%   68%   80%   91%  100%  100%  
+	    New File  		   3.7 m	ch05.ppt 13%   26%   40%   53%   66%   80%   93%  100%  100%  
+	    New File  		     117	Link for the Ebook.txt100%  
+	    New File  		    2100	Midterm Exam Schedule - Shortcut.lnk100%  
+	    New File  		  76.5 m	OneDrive_2023-11-08.zip  1.3%  2.6%  3.9%  5.2%  6.5%  7.8%  9.1% 10.4% 11.7% 13.0% 14.3% 15.6% 16.9% 18.2% 19.5% 20.8% 22.2% 23.5% 24.8% 26.1% 27.4% 28.7% 30.0% 31.3% 32.6% 33.9% 35.2% 36.5% 37.8% 39.1% 40.4% 41.7% 43.1% 44.4% 45.7% 47.0% 48.3% 49.6% 50.9% 52.2% 53.5% 54.8% 56.1% 57.4% 58.7% 60.0% 61.3% 62.6% 64.0% 65.3% 66.6% 67.9% 69.2% 70.5% 71.8% 73.1% 74.4% 75.7% 77.0% 78.3% 79.6% 80.9% 82.2% 83.5% 84.9% 86.2% 87.5% 88.8% 90.1% 91.4% 92.7% 94.0% 95.3% 96.6% 97.9% 99.2%100%  100%  
+	  New Dir          5	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Final Project\
+	    New File  		     724	1. My Top Picks.txt100%  
+	    New File  		    1187	Batch File Programming Ideas.txt100%  
+	    New File  		     345	Batch File Programming Tutorials.txt100%  
+	    New File  		     156	How to Make Flash Drive That Copy's Users Files Silently and Automatically.txt100%  
+	    New File  		   26932	RUS Bat Project.txt100%  
+	  New Dir          1	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Final Project\Batch Programming Ideas folder\
+	    New File  		     144	Batch script to automate opening urls, apps, and folders in Windows 10.txt100%  
+	  New Dir          6	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Final Project\Batch Programming Practice\
+	    New File  		      18	first.bat100%  
+	    New File  		      12	note.txt100%  
+	    New File  		      13	num.txt100%  
+	    New File  		      99	second.bat100%  
+	    New File  		      51	tempCodeRunnerFile.bat100%  
+	    New File  		     765	test.txt100%  
+	  New Dir         25	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 1\
+	    New File  		   65172	1.png 99%  100%  
+	    New File  		   15290	10.png 99%  100%  
+	    New File  		    4510	11.png 98%  100%  
+	    New File  		   12691	12.png 99%  100%  
+	    New File  		   57802	13.png 99%  100%  
+	    New File  		    6000	14.png 99%  100%  
+	    New File  		   36077	15.png 99%  100%  
+	    New File  		  126410	16.png 99%  100%  
+	    New File  		   53382	17.png 99%  100%  
+	    New File  		   56863	18.png 99%  100%  
+	    New File  		   44067	19.png 99%  100%  
+	    New File  		   41589	2.png 99%  100%  
+	    New File  		   83333	20.png 99%  100%  
+	    New File  		   50163	3.png 99%  100%  
+	    New File  		   65528	4.png 99%  100%  
+	    New File  		   24372	5.png 99%  100%  
+	    New File  		   82322	6.png 99%  100%  
+	    New File  		   26134	7.png 99%  100%  
+	    New File  		  156073	8.png 83%   99%  100%  
+	    New File  		   22339	9.png 99%  100%  
+	    New File  		   2.9 m	ch01.ppt 16%   33%   50%   67%   84%  100%  100%  
+	    New File  		  434080	Conversions. (mb,gb,etc).docx 30%   60%   90%  100%  
+	    New File  		    6063	Operating System Notes 1.txt100%  
+	    New File  		   1.0 m	Operating Systems Lesson 1.docx 24%   49%   74%   99%  100%  
+	    New File  		  619557	reference material.png 42%   84%   99%  100%  
+	  New Dir          2	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 1\Quiz 2 Review\
+	    New File  		  475306	OS-reviewer-quiz-2.pdf 27%   55%   82%  100%  
+	    New File  		    4857	Quiz 2 review.txt100%  
+	  New Dir          4	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\
+	    New File  		    2009	ch01 - Shortcut.lnk100%  
+	    New File  		   5.4 m	ch02.ppt  9%   18%   27%   36%   46%   55%   64%   73%   83%   92%  100%  100%  
+	    New File  		   1.5 m	Chapter 2.docx 16%   32%   48%   64%   80%   96%  100%  
+	    New File  		      72	Command Line YT tutorial.txt100%  
+	  New Dir          9	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\
+	    New File  		   9.4 m	CLI Lesson.docx 10.5% 21.1% 31.7% 42.3% 52.9% 63.5% 74.1% 84.7% 95.3%100%  
+	    New File  		    1311	cli-commands.txt 96%  100%  
+	    New File  		    1112	Command line Cheatsheet - Shortcut.lnk100%  
+	    New File  		  142229	Command Redirection, Pipes - Windows CMD - SS64.com.pdf 92%  100%  
+	    New File  		  153610	cs.princeton.edu_courses_archive_spr05_cos126_cmd-prompt.html.pdf 85%  100%  
+	    New File  		      96	Note the DIR os in Drive C.txt100%  
+	    New File  		  307259	Screenshot (203).png 42%   85%  100%  
+	    New File  		  223487	Screenshot (314).png 58%  100%  
+	    New File  		  138041	Wildcards - Windows CMD - SS64.com.pdf 94%  100%  
+	  New Dir          7	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\
+	    New File  		      41	Example.txt100%  
+	    New File  		      80	Example2.txt100%  
+	    New File  		      87	Example3.bat100%  
+	    New File  		      19	hello.txt100%  
+	    New File  		     170	Info.txt100%  
+	    New File  		     105	newInfo.txt100%  
+	    New File  		      28	Study.txt100%  
+	  New Dir          6	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\Folder3\
+	    New File  		      80	Burgos.txt100%  
+	    New File  		      23	Lawrence.docx100%  
+	    New File  		      18	Lawrence.txt100%  
+	    New File  		      14	Pio.docx100%  
+	    New File  		       8	test.docx100%  
+	    New File  		       7	test.txt100%  
+	  New Dir          2	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\Folder4\
+	    New File  		      80	Burgos.txt100%  
+	    New File  		   29159	Generative_AI.jpg 99%  100%  
+	  New Dir          4	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\Folder4\Folder4.1\
+	    New File  		      80	PioBurgos.txt100%  
+	    New File  		  344697	Screenshot (107).png 38%   76%   99%  100%  
+	    New File  		  162630	Screenshot (108).png 80%   99%  100%  
+	    New File  		  139765	Screenshot (118)copy.png 93%   99%  100%  
+	  New Dir          5	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\Folder5\
+	    New File  		   29159	Generative_AI.jpg 99%  100%  
+	    New File  		  344697	Screenshot (107).png 38%   76%   99%  100%  
+	    New File  		  162630	Screenshot (108).png 80%   99%  100%  
+	    New File  		  139765	Screenshot (118)copy.png 93%   99%  100%  
+	    New File  		      15	TWD_Daryl.txt100%  
+	  New Dir          4	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\Folder6\
+	    New File  		      19	bros.txt100%  
+	    New File  		       8	test1.txt100%  
+	    New File  		       8	test2.txt100%  
+	    New File  		       8	test3.txt100%  
+	  New Dir          1	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\Folder6\Folder6.1\
+	    New File  		      31	Practical_Exam.txt100%  
+	  New Dir          0	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\os\
+	  New Dir          0	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\os\lab1\
+	  New Dir          0	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\os\lab1\archive\
+	  New Dir          3	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\os\lab1\customer\
+	    New File  		       8	Cust1.txt100%  
+	    New File  		       5	Cust2.txt100%  
+	    New File  		       3	Cust3.txt100%  
+	  New Dir          0	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\os\lab1\finace\
+	  New Dir          0	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 2\Command Line Exercise\Dir_Prac\os\lab1\public\
+	  New Dir          3	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 3\
+	    New File  		     595	prime.bat100%  
+	    New File  		    1607	primeGPT.txt100%  
+	    New File  		    2160	primeRus.bat 87%  100%  
+	  New Dir          1	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 3\November 7 Screenshots\
+	    New File  		  76.5 m	OneDrive_2023-11-26.zip  1.3%  2.6%  3.9%  5.2%  6.5%  7.8%  9.1% 10.4% 11.7% 13.0% 14.3% 15.6% 16.9% 18.2% 19.5% 20.8% 22.2% 23.5% 24.8% 26.1% 27.4% 28.7% 30.0% 31.3% 32.6% 33.9% 35.2% 36.5% 37.8% 39.1% 40.4% 41.7% 43.1% 44.4% 45.7% 47.0% 48.3% 49.6% 50.9% 52.2% 53.5% 54.8% 56.1% 57.4% 58.7% 60.0% 61.3% 62.6% 64.0% 65.3% 66.6% 67.9% 69.2% 70.5% 71.8% 73.1% 74.4% 75.7% 77.0% 78.3% 79.6% 80.9% 82.2% 83.5% 84.9% 86.2% 87.5% 88.8% 90.1% 91.4% 92.7% 94.0% 95.3% 96.6% 97.9% 99.2%100%  100%  
+	  New Dir         40	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 3\November 7 Screenshots\nov 7, 2023 CLI commands\
+	    New File  		   2.1 m	IMG_20231107_110534.jpg 23%   46%   70%   93%  100%  
+	    New File  		   2.0 m	IMG_20231107_110539.jpg 24%   49%   74%   99%  100%  
+	    New File  		   1.8 m	IMG_20231107_110620.jpg 13%   27%   41%   54%   68%   82%   95%  100%  
+	    New File  		   1.7 m	IMG_20231107_110919.jpg 14%   29%   44%   58%   73%   88%  100%  
+	    New File  		   1.8 m	IMG_20231107_111041.jpg 13%   26%   39%   52%   65%   79%   92%  100%  
+	    New File  		   1.7 m	IMG_20231107_111053.jpg 13%   27%   41%   55%   69%   83%   97%  100%  
+	    New File  		   1.8 m	IMG_20231107_111056.jpg 13%   27%   41%   55%   69%   83%   97%  100%  
+	    New File  		   1.7 m	IMG_20231107_111103.jpg 14%   28%   43%   57%   72%   86%  100%  
+	    New File  		   1.8 m	IMG_20231107_111119.jpg 13%   27%   40%   54%   67%   81%   94%  100%  
+	    New File  		   1.9 m	IMG_20231107_111127.jpg 12%   25%   38%   50%   63%   76%   88%  100%  
+	    New File  		   1.9 m	IMG_20231107_111129.jpg 12%   25%   38%   51%   63%   76%   89%  100%  
+	    New File  		   1.7 m	IMG_20231107_111143.jpg 14%   28%   43%   57%   71%   86%  100%  
+	    New File  		   1.5 m	IMG_20231107_111148.jpg 16%   32%   49%   65%   81%   98%  100%  
+	    New File  		   1.7 m	IMG_20231107_111159.jpg 14%   28%   43%   57%   72%   86%  100%  
+	    New File  		   2.0 m	IMG_20231107_111208.jpg 24%   48%   73%   97%  100%  
+	    New File  		   2.0 m	IMG_20231107_111212.jpg 24%   49%   74%   99%  100%  
+	    New File  		   2.1 m	IMG_20231107_111220.jpg 23%   47%   70%   94%  100%  
+	    New File  		   2.0 m	IMG_20231107_111223.jpg 24%   49%   74%   98%  100%  
+	    New File  		   2.1 m	IMG_20231107_111245.jpg 23%   47%   70%   94%  100%  
+	    New File  		   2.0 m	IMG_20231107_111249.jpg 24%   48%   72%   96%  100%  
+	    New File  		   1.9 m	IMG_20231107_111302.jpg 12%   25%   37%   50%   62%   75%   87%  100%  
+	    New File  		   1.9 m	IMG_20231107_111306.jpg 12%   25%   37%   50%   63%   75%   88%  100%  
+	    New File  		   2.0 m	IMG_20231107_111318.jpg 24%   48%   72%   96%  100%  
+	    New File  		   2.0 m	IMG_20231107_111324.jpg 24%   49%   74%   98%  100%  
+	    New File  		   1.9 m	IMG_20231107_111409.jpg 12%   25%   38%   51%   64%   77%   90%  100%  
+	    New File  		   1.9 m	IMG_20231107_111412.jpg 12%   25%   37%   50%   62%   75%   88%  100%  
+	    New File  		   1.9 m	IMG_20231107_111457.jpg 12%   25%   38%   51%   63%   76%   89%  100%  
+	    New File  		   1.7 m	IMG_20231107_111555.jpg 14%   28%   42%   57%   71%   85%  100%  
+	    New File  		   1.7 m	IMG_20231107_111624.jpg 14%   28%   43%   57%   72%   86%  100%  
+	    New File  		   1.6 m	IMG_20231107_111631.jpg 15%   30%   45%   61%   76%   91%  100%  
+	    New File  		   2.2 m	IMG_20231107_112144.jpg 21%   43%   65%   87%  100%  
+	    New File  		   1.9 m	IMG_20231107_112147.jpg 12%   25%   37%   50%   63%   75%   88%  100%  
+	    New File  		   1.9 m	IMG_20231107_112151.jpg 12%   25%   38%   51%   64%   77%   90%  100%  
+	    New File  		   1.9 m	IMG_20231107_112207.jpg 13%   26%   39%   52%   65%   78%   91%  100%  
+	    New File  		   1.9 m	IMG_20231107_112246.jpg 12%   25%   38%   50%   63%   76%   88%  100%  
+	    New File  		   1.7 m	IMG_20231107_112308.jpg 14%   28%   42%   56%   70%   84%   98%  100%  
+	    New File  		   1.8 m	IMG_20231107_112328.jpg 13%   27%   41%   54%   68%   82%   95%  100%  
+	    New File  		   2.0 m	IMG_20231107_112340.jpg 24%   48%   72%   96%  100%  
+	    New File  		   1.6 m	IMG_20231107_112426.jpg 15%   30%   45%   61%   76%   91%  100%  
+	    New File  		   2.0 m	IMG_20231107_112509.jpg 24%   49%   74%   98%  100%  
+	  New Dir          7	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Lesson 3\November 9 Screenshots of lesson\
+	    New File  		   83008	1.jpg 99%  100%  
+	    New File  		   1.9 m	2.mp4 13%   26%   39%   52%   65%   78%   91%   99%  100%  
+	    New File  		   76853	3.jpg 99%  100%  
+	    New File  		   3.0 m	4.mp4 16%   33%   49%   66%   82%   99%   99%  100%  
+	    New File  		   2.9 m	5.mp4 17%   34%   51%   68%   85%  100%  100%  
+	    New File  		   56206	num.bat.png 99%  100%  
+	    New File  		   52177	oddeven.bat.png 99%  100%  
+	  New Dir         14	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Midterm Practical Exams\
+	    New File  		  150385	CLI 1.jpg 87%   99%  100%  
+	    New File  		  117919	CLI 10.jpg 99%  100%  
+	    New File  		  104663	CLI 11.jpg 99%  100%  
+	    New File  		  167904	CLI 12.jpg 78%   99%  100%  
+	    New File  		  161671	CLI 13.jpg 81%   99%  100%  
+	    New File  		  158556	CLI 14.jpg 82%   99%  100%  
+	    New File  		  127455	CLI 2.jpg 99%  100%  
+	    New File  		  130051	CLI 3.jpg 99%  100%  
+	    New File  		  124238	CLI 4.jpg 99%  100%  
+	    New File  		  120794	CLI 5.jpg 99%  100%  
+	    New File  		  119858	CLI 6.jpg 99%  100%  
+	    New File  		  131760	CLI 7.jpg 99%   99%  100%  
+	    New File  		  109695	CLI 8.jpg 99%  100%  
+	    New File  		  152953	CLI 9.jpg 85%   99%  100%  
+	  New Dir          6	C:\Dummy_Files_Prac\CCS 236 Operating Systems\Midterm Reviewers\
+	    New File  		    2161	Conversions. (mb,gb,etc) - Shortcut.lnk100%  
+	    New File  		    2043	Operating System Notes 1 - Shortcut.lnk100%  
+	    New File  		  562077	OS Midterm Review Part 1.docx 46%   93%  100%  
+	    New File  		  492252	OS Midterm Review Part 2.docx 26%   53%   79%  100%  
+	    New File  		    2241	OS-reviewer-quiz-2 - Shortcut.lnk100%  
+	    New File  		    2162	Quiz 2 review - Shortcut.lnk100%  
+	  New Dir         40	C:\Dummy_Files_Prac\CCS 236 Operating Systems\nov 7, 2023 CLI commands\
+	    New File  		   2.1 m	IMG_20231107_110534.jpg 23%   46%   70%   93%  100%  
+	    New File  		   2.0 m	IMG_20231107_110539.jpg 24%   49%   74%   99%  100%  
+	    New File  		   1.8 m	IMG_20231107_110620.jpg 13%   27%   41%   54%   68%   82%   95%  100%  
+	    New File  		   1.7 m	IMG_20231107_110919.jpg 14%   29%   44%   58%   73%   88%  100%  
+	    New File  		   1.8 m	IMG_20231107_111041.jpg 13%   26%   39%   52%   65%   79%   92%  100%  
+	    New File  		   1.7 m	IMG_20231107_111053.jpg 13%   27%   41%   55%   69%   83%   97%  100%  
+	    New File  		   1.8 m	IMG_20231107_111056.jpg 13%   27%   41%   55%   69%   83%   97%  100%  
+	    New File  		   1.7 m	IMG_20231107_111103.jpg 14%   28%   43%   57%   72%   86%  100%  
+	    New File  		   1.8 m	IMG_20231107_111119.jpg 13%   27%   40%   54%   67%   81%   94%  100%  
+	    New File  		   1.9 m	IMG_20231107_111127.jpg 12%   25%   38%   50%   63%   76%   88%  100%  
+	    New File  		   1.9 m	IMG_20231107_111129.jpg 12%   25%   38%   51%   63%   76%   89%  100%  
+	    New File  		   1.7 m	IMG_20231107_111143.jpg 14%   28%   43%   57%   71%   86%  100%  
+	    New File  		   1.5 m	IMG_20231107_111148.jpg 16%   32%   49%   65%   81%   98%  100%  
+	    New File  		   1.7 m	IMG_20231107_111159.jpg 14%   28%   43%   57%   72%   86%  100%  
+	    New File  		   2.0 m	IMG_20231107_111208.jpg 24%   48%   73%   97%  100%  
+	    New File  		   2.0 m	IMG_20231107_111212.jpg 24%   49%   74%   99%  100%  
+	    New File  		   2.1 m	IMG_20231107_111220.jpg 23%   47%   70%   94%  100%  
+	    New File  		   2.0 m	IMG_20231107_111223.jpg 24%   49%   74%   98%  100%  
+	    New File  		   2.1 m	IMG_20231107_111245.jpg 23%   47%   70%   94%  100%  
+	    New File  		   2.0 m	IMG_20231107_111249.jpg 24%   48%   72%   96%  100%  
+	    New File  		   1.9 m	IMG_20231107_111302.jpg 12%   25%   37%   50%   62%   75%   87%  100%  
+	    New File  		   1.9 m	IMG_20231107_111306.jpg 12%   25%   37%   50%   63%   75%   88%  100%  
+	    New File  		   2.0 m	IMG_20231107_111318.jpg 24%   48%   72%   96%  100%  
+	    New File  		   2.0 m	IMG_20231107_111324.jpg 24%   49%   74%   98%  100%  
+	    New File  		   1.9 m	IMG_20231107_111409.jpg 12%   25%   38%   51%   64%   77%   90%  100%  
+	    New File  		   1.9 m	IMG_20231107_111412.jpg 12%   25%   37%   50%   62%   75%   88%  100%  
+	    New File  		   1.9 m	IMG_20231107_111457.jpg 12%   25%   38%   51%   63%   76%   89%  100%  
+	    New File  		   1.7 m	IMG_20231107_111555.jpg 14%   28%   42%   57%   71%   85%  100%  
+	    New File  		   1.7 m	IMG_20231107_111624.jpg 14%   28%   43%   57%   72%   86%  100%  
+	    New File  		   1.6 m	IMG_20231107_111631.jpg 15%   30%   45%   61%   76%   91%  100%  
+	    New File  		   2.2 m	IMG_20231107_112144.jpg 21%   43%   65%   87%  100%  
+	    New File  		   1.9 m	IMG_20231107_112147.jpg 12%   25%   37%   50%   63%   75%   88%  100%  
+	    New File  		   1.9 m	IMG_20231107_112151.jpg 12%   25%   38%   51%   64%   77%   90%  100%  
+	    New File  		   1.9 m	IMG_20231107_112207.jpg 13%   26%   39%   52%   65%   78%   91%  100%  
+	    New File  		   1.9 m	IMG_20231107_112246.jpg 12%   25%   38%   50%   63%   76%   88%  100%  
+	    New File  		   1.7 m	IMG_20231107_112308.jpg 14%   28%   42%   56%   70%   84%   98%  100%  
+	    New File  		   1.8 m	IMG_20231107_112328.jpg 13%   27%   41%   54%   68%   82%   95%  100%  
+	    New File  		   2.0 m	IMG_20231107_112340.jpg 24%   48%   72%   96%  100%  
+	    New File  		   1.6 m	IMG_20231107_112426.jpg 15%   30%   45%   61%   76%   91%  100%  
+	    New File  		   2.0 m	IMG_20231107_112509.jpg 24%   49%   74%   98%  100%  
+	  New Dir          2	C:\Dummy_Files_Prac\New folder 2\
+	    New File  		       0	New Text Document (2).txt
+	    New File  		      38	New Text Document.txt100%  
+	  New Dir          1	C:\Dummy_Files_Prac\Newfolder3\
+	    New File  		      11	Hello.txt100%  
+	  New Dir          3	C:\Dummy_Files_Prac\New_folder_1\
+	    New File  		    6164	New Microsoft Excel Worksheet.xlsx100%  
+	    New File  		       0	New Microsoft PowerPoint Presentation.pptx
+	    New File  		       0	New Microsoft Word Document.docx
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        32        31         1         0         0         0
+   Files :       211       211         0         0         0         1
+   Bytes :  354.11 m  354.11 m         0         0         0         0
+   Times :   0:00:01   0:00:01                       0:00:00   0:00:00
+
+
+   Speed :           333319101 Bytes/sec.
+   Speed :           19072.671 MegaBytes/min.
+   Ended : Thursday, December 14, 2023 7:44:12 PM
+

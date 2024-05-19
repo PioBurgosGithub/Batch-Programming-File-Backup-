@@ -1,0 +1,146 @@
+what's your personal idea when we say OS?
+-system that manages hardware and software of a smart device
+
+OPERATING SYSTEM IS A PROGRAM THAT SERVES AS INTERMEDIARY BETWEEN A COMPUTER HARDWARE AND THE USER
+
+Hardware devices can only interpret inputs or data via binary and this is ideally not usable for a lot of consumers. Therefore OS servers as the bridgr between users and hardware where its software provides a user friendly interface for the user while translating the inputs or interaction of the user to a language that the hardware understands. In short translator siya between user and hardware
+
+
+*PICTURE 3*
+EXECUTE USER PROGRAMS
+...meaning, when you run a program, IT SHOULD FOLLOW OS PROTOCOL or else OS WON'T ALLOW IT TO RUN
+
+ng foundation sng COMPUTER SYSTEM IS ALWAYS 3:
+-first component is... HARDWARE
+-second is .... SOFTWARE...
+-and last but not the least is PEOPLEWARE
+
+PEOPLEWARE is actually a slang word that refers to all computer users
+
+
+Hardware:
+physical components and usually classified as INPUT or OUTPUT or BOTH
+
+Software:
+computer program, classified into, system and application
+
+and the most important system software is the OPERATING SYSTEM sometimes regarded to as the CENTRAL NERVOUS SYSTEM of our computer
+
+
+*PICTURE 4*
+
+HARDWARE
+*PICTURE 5*
+
+SOFTWARE
+*PICTURE 6*
+
+PEOPLEWARE
+*PICTURE 7*
+
+*PICTURE 8*
+
+
+*PICTURE 9*
+
+
+RESOURCE ALLOCATOR:
+in charge of assigning resources to those in need both for hardware and software
+
+*PICTURE 10*
+
+*PICTURE 11*
+
+*PICTURE 12*
+
+
+question: WHAT WILL HAPPEN TO A PROGRAM IF THERE ARE ILLEGAL REQUESTS AND WILL NOT BE ALLOWED BY THE OS?
+-first, there are TYPES OF PROGRAMS WITH ILLEGAL INSTRUCTIONS at the start.....so pag run sng program,  TERMINATED DAYON
+-second, THERE ARE PROGRAMS NGA MAY HIDDEN ILLEGAL CODES LIKE VIRUSES, which RUN at first, but later, execute their illegal activities and WILL BE TERMINATED
+
+so what's the effect? IF THIS IS A DEVICE DRIVER THAT VIOLATES OS PROTOCOL, you will commonly experience BLUE SCREEN
+
+if its a kind of program depending on its violation, a GPF usually happens, or General Protection Fault and terminates the program
+
+UNDER WORST CASES, the program will freeze and can be killed only by opening the task manager, or again the BSOD
+- ang Blue Screen of Death is a slang meaning of the acronym
+
+Device Driver:
+- particular programs that specifically interacts with their designated hardware. OS then manages these drivers
+- a device driver is a program that is written for a SPECIFIC DEVICE to allow communication between the device and the OS
+- meaning...ang driver ginsulat  para sa muna lang nga device kag indi gid pwd sa other devices...kng piliton nyo install, result? another BSOD
+- literally, device drivers should be provided by their own manufacturers only
+- but lately, THERE ARE THIRD PARTY UTILITIES THAT HOSTS DEVICE DRIVERS....and some DRIVERS ARE INFECTED WITH VIRUSES...one good example is the DRIVERPACK
+- as of the moment, using the latest operating system driver update feature is the best way to install and update your drivers
+
+
+*PICTURE 13*
+
+one important component of the OS is its KERNEL
+
+this is the most important component which is TSR in nature....
+- TSR means? Terminate but Stay Resident program like your viruses
+- they continue residing in computer's memory and activates only when needed
+
+COMPUTER STARTUP
+START UP = BOOT UP
+START UP = BOOT UP
+
+*PICTURE 15*
+
+bootstrap program is activated usually resides in the ROM in a form of a firmware
+then......a POST is performed to initialize all aspects of the system
+
+Power On Self-Test (POST)
+-during the test....ma ask sya....KEYBOARD ARE YOU THERE? ang keyboard will respond by lighting the 3 LEDS, caps lock, num lock, and scroll lock
+-pero pag indi na sya mag siga or ma detect, your screen will display, KEYBOARD ERROR OR NO KEYBOARD FOUND...
+-then...kng wla problema like your windows...
+-ma appear na ang dektop nyo and it's now ready to use....
+-sometimes...troubleshooting your computer especially the start up procedure is difficult...UNLESS YOU KNOW THE PROCESSES undergone by the system especially the OS
+
+
+permi ko gid gina lecture nga, THE FIRST TIME YOU TURN ON YOUR PC, or computers, make sure nga YOU USE YOUR SENSES
+-why? this allows you to take note of your PC whether it is in good condition or not
+-first....SENSE OF HEARING.....make sure you listen for any irregular sounds
+
+- next...SENSE OF SIGHT..
+-Tan awa sa screen bsi may error display dira ang BIOS such as memory address error, INT error, or at the same time, check the keyboard if the 3 LEDS are working
+
+- next....sense of touch...IF DURING START UP YOU FEEL ELECTROCUTED when touching your PC...That should be an alarming situation
+- last but not the least, SENSE OF SMELL. If during BOOT UP, you smell something burn, TURN OFF YOUR SYSTEM IMMEDIATELY ky bsi may nasunog or nag short dira
+
+*PICTURE 16*
+
+ano ang difference sng computer architecture sa computer organization?
+-when we are talking how a computer component works....we refer to architecture.....when we talk about how these components are connected, then we are talking about organization
+
+
+Computer-System Operation
+what computing principle is behind the VON NEUMANN MACHINE?
+-Input, process, output
+
+*PICTURE 17*
+
+buffer....what is this?
+- ok...it's temporary storage...
+
+RAM:
+-related to this is CACHE which will discuss soon
+ 
+Interrupt:
+- ang interrupt can be generated by a hardware or software
+- when an interrupt is generated....it allows the CPU TO TEMPORARILY STOP ITS WORK and give attention to the interrupt
+- tawag gani nga interrupt ky gina stop for a while
+
+
+*PICTURE 18*
+OS IS INTERRUPT DRIVEN
+
+*PICTURE 19*
+- meaning..during the interrupt, THE OS PRESERVE THE STATUS OF THE CPU, STORING SOME VALUES SOMEWHERE ELSE LIKE THE REGISTERS
+
+- of course, action should be taken by the CPU based on the type of interrupt it received'
+
+INPUT/OUTPUT STRUCTURE
+*PICTURE 20*
+

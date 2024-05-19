@@ -1,0 +1,19 @@
+
+User accounts for \\DESKTOP-GE2MS24
+
+-------------------------------------------------------------------------------
+Administrator            DefaultAccount           DELL                     
+Guest                    WDAGUtilityAccount       
+The command completed successfully.
+
+
+Pinging google.com [142.251.221.14] with 32 bytes of data:
+Reply from 142.251.221.14: bytes=32 time=64ms TTL=59
+Reply from 142.251.221.14: bytes=32 time=66ms TTL=59
+Reply from 142.251.221.14: bytes=32 time=65ms TTL=59
+Reply from 142.251.221.14: bytes=32 time=65ms TTL=59
+
+Ping statistics for 142.251.221.14:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 64ms, Maximum = 66ms, Average = 65ms

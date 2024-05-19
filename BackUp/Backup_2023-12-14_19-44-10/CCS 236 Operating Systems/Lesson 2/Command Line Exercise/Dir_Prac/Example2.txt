@@ -1,0 +1,3 @@
+@echo off
+rem echo off
+echo trying to see if "that command" will not display

@@ -1,0 +1,37 @@
+Instructions for the program:
+
+Main Menu:
+
+When you run the script, it will display a main menu with the following options:
+Press 1 to Back Up a Directory.
+Press 2 to Delete a Directory (Temporary or Permanent).
+Press 3 to Restore a Directory.
+Press E to Exit the program.
+Back Up a Directory:
+
+If you choose option 1, it will prompt you to enter the path of the source directory you want to back up.
+The source directory should be enclosed in double quotes, and the script will check if it exists.
+A timestamped backup folder will be created in the specified backup directory using robocopy to copy files and folders.
+The program will ask if you want to back up another folder. Press Y for yes or any other key to return to the main menu.
+Delete a Directory:
+
+If you choose option 2, it will ask if you want to temporarily or permanently delete a directory.
+For temporary deletion, it will move the selected directory to the "Deleted" folder.
+For permanent deletion, it will completely remove the selected directory.
+After deletion, it will ask if you want to delete another folder. Press Y for yes or any other key to return to the main menu.
+Restore a Directory:
+
+If you choose option 3, it will prompt you to select a directory from the "Deleted" folder to restore.
+After restoration, it will ask if you want to restore another folder. Press Y for yes or any other key to return to the main menu.
+Exiting the Program:
+
+If you choose option E, the script will display an exit message and terminate after a short delay.
+Invalid Input Handling:
+
+The script includes input validation to handle invalid choices or inputs.
+If you provide invalid input, it will display an error message and prompt you to enter a valid input.
+Note:
+
+Ensure that the script is executed with appropriate permissions to create directories and move files.
+Make sure to back up important data before using the delete functions, as permanent deletion cannot be undone.
+Feel free to run the script and follow the on-screen instructions. If you have any specific questions or issues, let me know!

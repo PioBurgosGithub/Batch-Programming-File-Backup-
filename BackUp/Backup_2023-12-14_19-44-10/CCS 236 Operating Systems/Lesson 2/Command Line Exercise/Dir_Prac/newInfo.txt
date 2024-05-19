@@ -1,0 +1,6 @@
+@echo off
+cls
+echo New Information:
+echo Address:  Roxas City
+echo Phone Number: 1234567890
+hello 

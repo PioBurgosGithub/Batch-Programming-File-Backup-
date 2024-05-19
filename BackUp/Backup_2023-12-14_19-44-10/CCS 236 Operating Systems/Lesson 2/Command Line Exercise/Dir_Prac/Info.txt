@@ -1,0 +1,6 @@
+@echo off
+echo Name: Pio Lawrence Burgos
+echo Age: 22
+echo Birthday: August 10,2001
+echo Grade Level: 4th Year
+echo Course: Bachelor of Science in Computer Science

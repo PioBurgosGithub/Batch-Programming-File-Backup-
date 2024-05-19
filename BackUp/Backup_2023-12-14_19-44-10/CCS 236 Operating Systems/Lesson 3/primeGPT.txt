@@ -1,0 +1,78 @@
+@echo off
+setlocal enabledelayedexpansion
+
+REM Input number to check for primality
+set /p number="Enter a number: "
+
+REM Initialize prime flag to 1 (true)
+set "isPrime=1"
+
+REM Check if the number is less than 2
+if %number% lss 2 (
+    set "isPrime=0"
+)
+
+else (
+    REM Loop to check for factors from 2 to the square root of the number
+    set "limit=%number%"
+    set /a "limit=limit / 2"
+    for /l %%i in (2,1,%number%) do (
+        set /a "remainder=number %% %%i"
+        if !remainder! equ 0 (
+            set "isPrime=0"
+            goto :exitLoop
+        )
+        REM Exit the loop if a factor is found
+        if %%i gtr !number! (
+            goto :exitLoop
+        )
+    )
+)
+
+:exitLoop
+REM Output the result
+if !isPrime! equ 1 (
+    echo %number% is a prime number.
+) else (
+    echo %number% is not a prime number.
+)
+
+endlocal
+
+
+##########################################################################################
+SOURCE CHATGPT: @echo off
+setlocal enabledelayedexpansion
+
+set /p number=Enter a number:
+
+set "isPrime=true"
+set /a "sqrtN=2"
+
+if %number% leq 1 (
+  set "isPrime=false"
+) else if %number% gtr 2 (
+  set /a "sqrtN=2"
+
+  :checkLoop
+  set /a "tempNum=number %% sqrtN"
+  if !tempNum! == 0 (
+    set "isPrime=false"
+    goto primeCheckEnd
+  )
+  set /a "sqrtN+=1"
+  set /a "sqrtN2=sqrtN * sqrtN"
+  if !sqrtN2! leq !number! (
+    goto checkLoop
+  )
+)
+
+:primeCheckEnd
+if "!isPrime!"=="true" (
+  echo %number% is a prime number.
+) else (
+  echo %number% is not a prime number.
+)
+
+endlocal
+Write to BSCS 4-B

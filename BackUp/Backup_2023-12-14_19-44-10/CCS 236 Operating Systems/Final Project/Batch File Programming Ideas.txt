@@ -1,0 +1,32 @@
+
+Some Cool Batch Applications
+https://www.instructables.com/Some-Cool-Batch-Applications/
+
+Computer Clean Up Batch Script
+https://www.instructables.com/DIY-Small-Tool-to-Clean-Your-Pc/
+
+
+// Maybe a code similar to Site Selector but instead of website, it will 
+//automatically go to your most used folder
+/*Develop a batch script to create and manage custom file shortcuts. This script could help you quickly 
+access frequently used files or programs.*/
+
+
+//Open a folder with File explorer using .bat
+// https://stackoverflow.com/questions/20202880/open-a-folder-with-file-explorer-using-bat
+
+
+How to Program: A Computer Cleanup Tool in Batch
+https://www.youtube.com/watch?v=3SxYXgxg48E&list=PLycehrgCPI4_oFJhhvnrVhSakgMrh1Nvj&index=11&pp=iAQB
+
+How to Program: A Strong Password Generator in Batch // takes 3000 years to bruteforce the password
+https://www.youtube.com/watch?v=-JYWnqKKwiI&list=PLycehrgCPI4_oFJhhvnrVhSakgMrh1Nvj&index=13
+
+
+
+Make a batch file that moves your downloaded files into different categories.
+For example It moves executable files (.exe .msi) to Programs folder.
+-moves images (.png .jpg etc..) to Pictures folder.
+and so on.
+
+

@@ -1,0 +1,40 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, December 11, 2023 8:25:18 PM
+   Source : D:\Subjects lessons\4th year\1st Semester\CCS 234 Networks and Communications\Final Project Network Mapping\
+     Dest : D:\Batch_File_Backup_Data\BackUp\Backup_2023-12-11_20-25-18\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:T /COPY:DAT /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	                   9	D:\Subjects lessons\4th year\1st Semester\CCS 234 Networks and Communications\Final Project Network Mapping\
+	  *EXTRA File 		       0	robocopy_log.txt
+	    New File  		   75322	61-3.png 99%  100%  
+	    New File  		  150014	ALA CCS 234.pdf 86%   99%  100%  
+	    New File  		   83885	Examples of Small Businesses.docx100%  
+	    New File  		   19821	Final Project Network Topology Sample.docx100%  
+	    New File  		  722246	Free Editable Network Diagram Examples _ EdrawMax Online.pdf 36%   72%  100%  
+	    New File  		   18011	Network Diagram.drawio 99%  100%  
+	    New File  		    2112	New Network Lay out - Shortcut.lnk100%  
+	    New File  		  202250	Screenshot (1101).png 64%  100%  
+	    New File  		   1.0 m	What is a Network Diagram _ Lucidchart.pdf 24%   48%   72%   97%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         9         9         0         0         0         1
+   Bytes :    2.24 m    2.24 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            14809088 Bytes/sec.
+   Speed :             847.382 MegaBytes/min.
+   Ended : Monday, December 11, 2023 8:25:18 PM
+

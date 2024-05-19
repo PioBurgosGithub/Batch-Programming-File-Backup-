@@ -1,0 +1,18 @@
+1.Menu-Driven System Tools
+Build a menu-driven script that allows users to choose from 
+various system tools such as checking disk space, 
+viewing processes, and managing files.
+
+2.create and manage custom file shortcuts. This script could help you quickly
+
+
+3.Make a batch file that moves your downloaded files into different categories.
+For example It moves executable files (.exe .msi) to Programs folder.
+-moves images (.png .jpg etc..) to Pictures folder.
+and so on.
+
+4. Basic Password Manager
+
+****************************************************************************
+Rus Github:
+https://github.com/dr-dolomite/WindowsUtilityTool?fbclid=IwAR2ldFDbZ9ufItEgZmDp2tzyiREzX36vdXZg2Jare0nA7qMmOv3kIoSIY70

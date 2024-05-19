@@ -1,0 +1,86 @@
+dir
+dir .
+dir *.*
+dir ????????.???
+
+if syntax is forgotten:
+dir/?
+
+dir c*.exe
+dir ?????.*
+dir *.dll /on /p
+
+display all files, press any key on any page, arranged acc to size from biggest to lowest
+
+display all files with four char as file name, begins w/ letter "c", .exe (extension), pause for screen, sorted from a-z
+answer: dir c???.exe/p/on 
+
+delete all files: del *.*
+
+dir
+md data
+dir
+md os
+dir
+md prog
+dir
+cd os
+md internal
+dir
+md external
+cd..\prog
+md java
+dir
+md cpp
+dir
+md python
+dir
+cd java
+cd..\..\os\internal 
+or
+cd \os\internal
+
+cd..
+rd cpp
+dir
+
+cls
+dir
+md
+cd
+rd
+copy
+type
+ren
+
+
+
+copy con hello.txt
+@echo off (echo - to display, echo off-dont show what is being typed..?)
+cls
+echo hello
+^Z (ctrl+z)
+
+type hello.bat 
+@echo off
+cls
+echo hello
+
+
+copy con hlword.bat
+@echo off
+
+batch file w/ name, age, bday, gender
+ren hello.txt hello.bat
+
+create a batch file that will create a file named: LIST.TXT which contains files from the folder you created in this path C:\OS\INTERNAL.
+Files in the INTERNAL should be a copy of files from C:\WINDOWS\SYSTEM32. The LIST.TXT should contain LIST OF FILES which is arranged according to size from the largest to smallest.
+
+md os
+md internal
+copy con list.bat
+@echo off
+cls
+
+
+

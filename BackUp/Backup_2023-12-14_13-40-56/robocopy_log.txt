@@ -1,0 +1,33 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, December 14, 2023 1:40:56 PM
+   Source : C:\Dummy_Files_Prac\New folder 2\
+     Dest : D:\Batch_File_Backup_Data\BackUp\Backup_2023-12-14_13-40-56\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:T /COPY:DAT /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	                   2	C:\Dummy_Files_Prac\New folder 2\
+	  *EXTRA File 		       0	robocopy_log.txt
+	    New File  		       0	New Text Document (2).txt
+	    New File  		      38	New Text Document.txt100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         2         2         0         0         0         1
+   Bytes :        38        38         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :                6333 Bytes/sec.
+   Speed :               0.362 MegaBytes/min.
+   Ended : Thursday, December 14, 2023 1:40:56 PM
+
